@@ -1,0 +1,6 @@
+framework module Pods_InstagramTrasitionTestTests {
+  umbrella header "Pods-InstagramTrasitionTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,20 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - RandomColorSwift (1.0.0)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (= 1.1)
+  - RandomColorSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FDFullscreenPopGesture
+    - RandomColorSwift
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  RandomColorSwift: 9f85058b721665d52d239ca166a913e083506444
+
+PODFILE CHECKSUM: 23cbbc6a30865cc99e6305db603735c9e97cd8de
+
+COCOAPODS: 1.8.4
